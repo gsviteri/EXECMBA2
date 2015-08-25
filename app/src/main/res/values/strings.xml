@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lblBovespa">Bovespa</string>
+    <string name="lblCotacao">Cotação</string>
+    <string name="lblCotacoes">Cotações</string>
+    <string name="lblIndice">Indice</string>
+    <string name="lblVariacao">Variação</string>
+    <string name="lblAtualizacao">Atualizado em</string>
+    <string name="lblAtualizar">Atualizar</string>
+    <string name="Euro">Euro</string>
+    <string name="lblDolar">Dolar</string>
+</resources>
